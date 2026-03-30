@@ -1,10 +1,12 @@
-birthday_app/
-├── app.py                  ← Flask backend (customize here!)
-├── requirements.txt
-├── templates/
-│   └── index.html          ← Frontend UI
-└── static/
-    └── photos/             ← ⭐ DROP HER PHOTOS HERE ⭐
-        ├── 01.jpg
-        ├── 02.jpg
-        └── ...
+# 🎂 Birthday App
+
+A beautiful Flask-based birthday web app.
+
+## Features
+- 🎉 Animated UI
+- 📸 Photo gallery
+- 💖 Custom message
+
+## Run
+```bash
+python app.py
